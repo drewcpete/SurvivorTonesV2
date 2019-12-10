@@ -1,0 +1,27 @@
+{
+  "name": "survivor-tweet-tonesv2",
+  "version": "1.0.0",
+  "description": "Survivor Twitter Tones By Season",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "curl": "^0.1.4",
+    "ibm-cloud-env": "^0.2.6",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {
+    "dotenv-webpack": "^1.7.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
