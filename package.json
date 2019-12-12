@@ -17,6 +17,7 @@
   "dependencies": {
     "curl": "^0.1.4",
     "ibm-cloud-env": "^0.2.6",
+    "mysql": "^2.17.1",
     "twit": "^2.2.11"
   },
   "devDependencies": {
